@@ -1,1 +1,0 @@
-LITFULL/LITFULL/appsettings.json
