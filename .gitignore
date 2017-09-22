@@ -4,8 +4,8 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 # ASP.NET Core appsettings
 LITFULL/LITFULL/appsettings.json
-appsettings.production.json
-appsettings.development.json
+LITFULL/LITFULL/appsettings.json
+/LITFULL/LITFULL/appsettings.json
 
 # User-specific files
 *.suo
